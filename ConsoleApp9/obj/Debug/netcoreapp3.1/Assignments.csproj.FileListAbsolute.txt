@@ -1,0 +1,13 @@
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\Assignments.exe
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\Assignments.deps.json
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\Assignments.runtimeconfig.json
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\Assignments.runtimeconfig.dev.json
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\Assignments.dll
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\Assignments.pdb
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\Assignments.csprojAssemblyReference.cache
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\Assignments.AssemblyInfoInputs.cache
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\Assignments.AssemblyInfo.cs
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\Assignments.dll
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\Assignments.pdb
+C:\Users\Veerababu Rallabandi\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\Assignments.genruntimeconfig.cache
