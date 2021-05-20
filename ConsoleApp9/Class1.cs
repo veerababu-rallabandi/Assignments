@@ -9,11 +9,11 @@ namespace Assignments
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            for(int i = 0; i<n; i++)
+            for(int i = 5; i>0; i--)
             {
-                for(int j = 0; j>i; j++)
+                for(int j = 5; j>0; j--)
                 {
-                    if (j == n - i-1)
+                    if (i<=j)
                     {
                         Console.Write("*");
                     }
