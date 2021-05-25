@@ -98,11 +98,23 @@ namespace Assignments
         }
         public void Method6()
         {
-            for(int i = 0; i < 5; i++)
-            {
-                Console.WriteLine((int)Math.Pow(11, i));
-            }
             
+                 
+                for (int j = 0; j < 5; j++)
+                {
+                    for(int i = 1; i < 5 - j; i++)
+                    {
+                        Console.Write(" ");
+                    }
+                    Console.WriteLine((int)Math.Pow(11, j));
+               
+                }
+            
+            
+        }
+        public void Method7()
+        {
+
         }
     }
 }
